@@ -1,2 +1,2 @@
-# chat-application
-basically it's a simple chat app using java . containing server and client end.
+# Chat-Application
+Basically it's a simple chat application using java containing server and client end.
